@@ -53,7 +53,7 @@ The following devices were successfully authenticated and assigned IP addresses 
 * **Guest User:** Redirected to the UniFi Guest Hotspot and authenticated using a voucher (VLAN 30).
 * **Trusted Device:** Connected directly to VLAN 20 (`192.168.3.201`).
 
-![Captive Portal](images/captive-portal.png)
+![Captive Portal](images/captive-portal.png) ![Captive Portal](images/captive-portal1.png) ![Captive Portal](images/captive-portal2.png)
 
 ## 🚀 Conclusion
 This deployment demonstrates enterprise-grade wireless security using UniFi. VLAN segmentation prevents lateral movement, while WPA Enterprise, captive portal controls, and scheduled WiFi availability ensure secure and policy-compliant network access.
